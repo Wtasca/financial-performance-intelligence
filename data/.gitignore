@@ -1,0 +1,20 @@
+# Temporary files
+*.tmp
+*.temp
+*.bak
+~$*
+
+# Excel temporary files
+*.xlsb
+*.autosave
+
+# Power BI temporary files
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+*.pbix.tmp
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
