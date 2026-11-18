@@ -18,3 +18,19 @@ __pycache__/
 *.py[cod]
 .venv/
 venv/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# Generated datasets
+data/raw/*
+!data/raw/.gitkeep
+
+data/processed/*
+!data/processed/.gitkeep
+
+# Operating system
+.DS_Store
+Thumbs.db
