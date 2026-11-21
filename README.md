@@ -1,4 +1,4 @@
-#### Financial Performance & Profitability Intelligence
+## Financial Performance & Profitability Intelligence
 
 ## 1. Project Overview
 
